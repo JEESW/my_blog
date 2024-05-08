@@ -22,5 +22,9 @@
     {
         "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
         "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
+    },
+    {
+        "name": "[20240502]_[1일차_네트워크_기초_정리]_[html]_[]_[오르미_1일차_정리]_[JEESW].md",
+        "download_url": "/blog/[20240502]_[1일차_네트워크_기초_정리]_[html]_[]_[오르미_1일차_정리]_[JEESW].md"
     }
 ]
